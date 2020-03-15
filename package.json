@@ -1,0 +1,15 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "learning Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "AskariAbidi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
